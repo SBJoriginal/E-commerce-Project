@@ -56,7 +56,15 @@ To view my TikTok Ads strategy and engagement, watch these GIFs:
 - `/TikTokAds`: Contains videos related to TikTok Ads strategies.
 - `/Shopify`: Contains images of Shopify dashboard performance and insights.
 
-Additional Google and TikTok ads content can be explored in their respective folders: `/GoogleAds` and `/TikTokAds`.
+## Learning Outcomes
+
+- Developed deeper insights into user behavior analytics and effective ad strategies through campaign analysis.
+- Learned to adapt marketing tactics to optimize ad spend and improve ROI, ensuring efficient budget management.
+
+  ## Connect
+
+- [View My LinkedIn Profile](www.linkedin.com/in/lenny-plante) 
+- [Download My CV](https://yourwebsite.com/cv)
 
 ## Conclusion
 
