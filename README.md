@@ -46,8 +46,9 @@ Here are some insights from other images that portray varied aspects of my Googl
 ### TikTok Ads Video Content
 
 To view my TikTok Ads strategy and engagement, watch these GIFs:
-![TikTok Campaign 1](TikTokAds/ad2.gif) 
-![TikTok Campaign 2](TikTokAds/ad3.gif) 
+
+![An Ad](TikTokAds/ad2.gif) 
+![An Ad](TikTokAds/ad3.gif) 
 
 ## Project Structure
 
