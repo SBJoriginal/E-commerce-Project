@@ -34,8 +34,8 @@ I launched a Shopify store as a side project, successfully leveraging Google Ads
 
 Here are some insights from other images that portray varied aspects of my Google Ads strategy:
 
-![Caption for Image 1](GoogleAds/Sale1.png)  
-![Caption for Image 2](GoogleAds/Ad6.png) 
+![A Special Promotion](GoogleAds/Sale1.png)  
+![An Ad](GoogleAds/Ad6.mp4) 
 
 ### TikTok Ads Dashboard
 
