@@ -35,7 +35,7 @@ I launched a Shopify store as a side project, successfully leveraging Google Ads
 Here are some insights from other images that portray varied aspects of my Google Ads strategy:
 
 ![A Special Promotion](GoogleAds/Sale1.png)  
-![An Ad](GoogleAds/Ad6.mp4) 
+![An Ad](GoogleAds/Ad6.gif) 
 
 ### TikTok Ads Dashboard
 
@@ -46,8 +46,8 @@ Here are some insights from other images that portray varied aspects of my Googl
 ### TikTok Ads Video Content
 
 To view my TikTok Ads strategy and engagement, watch the videos:
-- [TikTok Campaign 1](TikTokAds/ad2.mp4)
-- [TikTok Campaign 2](TikTokAds/ad3.mp4)
+- [TikTok Campaign 1](TikTokAds/ad2.gif)
+- [TikTok Campaign 2](TikTokAds/ad3.gif)
 
 ## Project Structure
 
