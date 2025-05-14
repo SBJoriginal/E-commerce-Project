@@ -45,15 +45,17 @@ Here are some insights from other images that portray varied aspects of my Googl
 
 ### TikTok Ads Video Content
 
-To view my TikTok Ads strategy and engagement, watch the videos:
-- [TikTok Campaign 1](TikTokAds/ad2.gif)
-- [TikTok Campaign 2](TikTokAds/ad3.gif)
+To view my TikTok Ads strategy and engagement, watch these GIFs:
+![TikTok Campaign 1](TikTokAds/ad2.gif) 
+![TikTok Campaign 2](TikTokAds/ad3.gif) 
 
 ## Project Structure
 
 - `/GoogleAds`: Contains images and videos related to Google Ads campaigns.
 - `/TikTokAds`: Contains videos related to TikTok Ads strategies.
 - `/Shopify`: Contains images of Shopify dashboard performance and insights.
+
+Additional Google and TikTok ads content can be explored in their respective folders: `/GoogleAds` and `/TikTokAds`.
 
 ## Conclusion
 
