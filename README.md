@@ -64,7 +64,7 @@ To view my TikTok Ads strategy and engagement, watch these GIFs:
   ## Connect
 
 - [View My LinkedIn Profile](www.linkedin.com/in/lenny-plante) 
-- [Download My CV](https://yourwebsite.com/cv)
+- [Download My CV](https://tinyurl.com/LennyCV)
 
 ## Conclusion
 
